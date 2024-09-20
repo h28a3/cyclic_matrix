@@ -28,6 +28,7 @@ $$
 ## 性質
 巡回行列同士の積は可換で，同時対角化可能
 
-$P=[\mathbf{e}_0\ \mathbf{e}_1\ \ldots\ \mathbf{e}_n-1]$ とすると， $P^{-1}=\frac{1}{n}[\mathbf{e}_0\ \mathbf{e}_n-1\ \ldots\ \mathbf{e}_1]$
+$P=[\mathbf{e}_0\ \mathbf{e}_1\ \ldots \mathbf{e}_n-1]$ とすると， $P^{-1}=\frac{1}{n}[\mathbf{e}_0\ \mathbf{e}_n-1\ \ldots\ \mathbf{e}_1]$
 
 $A\subset \lbrace 0,1,\ldots,n-1\rbrace$ とすると， $|\sum_{a\in A}\zeta^a|\leq |1+\zeta+\ldots+\zeta^{|A|-1}|$
+
