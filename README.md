@@ -22,7 +22,7 @@ $$
 $$
 
 $$
-\text{固有ベクトル：}\mathbf{e}_k=[1\ \zeta^k\ \ (\zeta^k)^2\ \ldots\ (\zeta^k)^{n-1}]
+\text{固有ベクトル：}\mathbf{e}_k=[1\ \zeta^k\ \ (\zeta^k)^2\ \ldots\ (\zeta^k)^{n-1}]^T
 $$
 
 ## 性質
